@@ -1,7 +1,9 @@
 # CITS2200
 ### Data Structures and Algorithms
 
-## Project 18 (/20) HD
+## Project
+18 (/20) HD  
+
 Due: Friday, May 31, 2019, 11:59pm
 This project can be done in pairs, although you may work on your own if you prefer.
 
